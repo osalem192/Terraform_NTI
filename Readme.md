@@ -42,29 +42,29 @@ terraform/
 ```
 
 ## AWS Diagram
-![alt text](AWS.jpg)
+![alt text](images/AWS.jpg)
 
 
 ## 📦 Modules
 
 ### VPC and Subnets
 
-![alt text](vpc.png)
+![alt text](images/vpc.png)
 
 ### EC2
 
-![alt text](instances.png)
+![alt text](images/instances.png)
 
 ### Public ALB
 
-![alt text](public_alb.png)
+![alt text](images/public_alb.png)
 
 ### Private ALB
 
-![alt text](private_alb.png)
+![alt text](images/private_alb.png)
 
 ## Final Load-Balancing
-![alt text](alb.gif)
+![alt text](images/alb.gif)
 
 ## 🔧 Usage
 
